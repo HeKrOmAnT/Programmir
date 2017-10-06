@@ -1,0 +1,7 @@
+# nomber1 = int(input("Введите первое число"))
+# nomber2 = int(input("Введите второе число"))
+# nomber3 = int(input("Введите третье число"))
+# print(nomber1 + nomber2 * nomber3)
+# texst1 = input("Введите первое число")
+# texst2 = input("Введите второе число")
+# print(texst1 + "+" + texst2 + "= дружба на века")
